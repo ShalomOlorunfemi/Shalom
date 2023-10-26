@@ -10,4 +10,9 @@ public class Student extends Person
 	{ // start declaration of the main method
 		System.out.println("Hello, I am a Student!"); // print a simple message
 	} // end declaration of the main method
+
+	public Student() 
+	{ // begin declaration of no parameters constructor
+		System.out.println("The no parameters construcor for class Student has been called.");
+	}
 } // end declaration of class Student

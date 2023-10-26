@@ -8,11 +8,7 @@ public class CollegeCourse
 			System.out.println("The object is: "+Eoin+"\n\n");
 		Student Armand = new Student();
 			System.out.println("The object is: "+Armand+"\n\n");
-		Student Mansur = new Student();
-			System.out.println("The object is: "+Mansur+"\n\n");
-		Student Shane = new Student();
-			System.out.println("The object is: "+Shane+"\n\n");
-		Student Paddy = new Student();
-			System.out.println("The object is: "+Paddy+"\n\n");
+
+		Lecturer Mark = new Lecturer();
 	}	
 }
